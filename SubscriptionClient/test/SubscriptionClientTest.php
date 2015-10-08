@@ -186,6 +186,28 @@ class SubscriptionClientTest_ShouldCreateSusbcriber extends PHPUnit_Framework_Te
         $this->conn->query("DELETE FROM $this->subscribersTable WHERE SubscriberKey = '" . $newSubscriber['Key'] . "'");
     }
 }
+class SubscriptionClientTest_ShouldRemoveSubscriber extends PHPUnit_Framework_TestCase
+{
+    private $conn;
+    private $subscribersTable = 'subscription_app_records';
+    public function test()
+    {
+        $mySqlConnection = [
+            'host'=> '127.0.0.1',
+            'user' => 'root',
+            'password' => 'dar87land',
+            'db'=> 'php_client_test',
+            'port' => 3306,
+            'socket'=> null
+        ];
+        $client = new \SubscriptionClient\SubscriptionClient('http://localhost:65386/','wcd1ikGGf0yNqxvl7R9RBg',$mySqlConnection);
+        $this->conn = new mysqli($mySqlConnection['host'],$mySqlConnection['user'],$mySqlConnection['password'],$mySqlConnection['db'],$mySqlConnection['port'],$mySqlConnection['socket']);
+        $this->conn->query("INSERT INTO $this->subscribersTable (SubscriberKey, AppID, SubscriberJson) VALUES('XXXXX', 'XXXXX', 'XXXXX')");
+        $client->subscriptionRemoved(array('Key' => 'XXXXX'));
+        $subscriber = $client->getSubscriptionForKey('XXXXX');
+        $this->assertNull($subscriber);
+    }
+}
 class SubscriptionClientTest_ShouldUpdateSusbcriber extends PHPUnit_Framework_TestCase
 {
     private $conn;
@@ -217,7 +239,7 @@ class SubscriptionClientTest_ShouldUpdateSusbcriber extends PHPUnit_Framework_Te
         $this->assertEquals(new DateTime('2015-10-10'), $updated['NewVersionDate']);
         $this->assertEquals(44.44, $updated['DailyRate']);
         $this->assertEquals('newname', $updated['Name']);
-        $this->assertEquals('ExpirationDate', $now);
+        $this->assertEquals($now, $updated['ExpirationDate']);
 
 
     }

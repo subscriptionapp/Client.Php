@@ -30,12 +30,30 @@
       <file leaf-file-name="SubscriptionClient.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SubscriptionClient.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="75" column="9" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+            <state vertical-scroll-proportion="-9.807693">
+              <caret line="181" column="13" selection-start-line="181" selection-start-column="13" selection-end-line="181" selection-end-column="13" />
               <folding>
                 <element signature="e#119#132#0#PHP" expanded="true" />
-                <marker date="1443835053813" expanded="true" signature="923:1015" placeholder="CREATE TABLE..comments..." />
-                <marker date="1443835053813" expanded="true" signature="1207:1332" placeholder="CREATE TABLE..$..." />
+                <marker date="1444305961918" expanded="true" signature="923:1015" placeholder="CREATE TABLE..comments..." />
+                <marker date="1444305961918" expanded="true" signature="1207:1332" placeholder="CREATE TABLE..$..." />
+                <marker date="1444305961918" expanded="true" signature="1669:1681" placeholder="DELETE FROM ..." />
+                <marker date="1444305961918" expanded="true" signature="1669:1682" placeholder="DELETE FROM ..." />
+                <marker date="1444305961918" expanded="true" signature="1669:1688" placeholder="DELETE FROM ..." />
+                <marker date="1444305961918" expanded="true" signature="1669:1705" placeholder="DELETE FROM ..." />
+                <marker date="1444305961918" expanded="true" signature="1669:1728" placeholder="DELETE FROM ..." />
+                <marker date="1444305961918" expanded="true" signature="1669:1754" placeholder="DELETE FROM ..." />
+                <marker date="1444305961918" expanded="true" signature="1669:1755" placeholder="DELETE FROM ..." />
+                <marker date="1444305961918" expanded="true" signature="1669:1756" placeholder="DELETE FROM ..." />
+                <marker date="1444305961918" expanded="true" signature="5425:5452" placeholder="SELECT Subsc..." />
+                <marker date="1444305961918" expanded="true" signature="6292:6371" placeholder="SELECT Subsc..." />
+                <marker date="1444305961918" expanded="true" signature="7247:7326" placeholder="SELECT Subsc..." />
+                <marker date="1444305961918" expanded="true" signature="8164:8237" placeholder="SELECT Subsc..." />
+                <marker date="1444305961918" expanded="true" signature="10739:10762" placeholder="SELECT Confi..." />
+                <marker date="1444305961918" expanded="true" signature="11708:11720" placeholder="DELETE FROM ..." />
+                <marker date="1444305961918" expanded="true" signature="12147:12229" placeholder="INSERT INTO ..." />
+                <marker date="1444305961918" expanded="true" signature="12368:12426" placeholder="SELECT FROM ..." />
+                <marker date="1444305961918" expanded="true" signature="12772:12959" placeholder="INSERT INTO ..." />
+                <marker date="1444305961918" expanded="true" signature="13037:13049" placeholder="DELETE FROM ..." />
               </folding>
             </state>
           </provider>
@@ -44,8 +62,8 @@
       <file leaf-file-name="WebClientServiceTest.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/WebClientServiceTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+            <state vertical-scroll-proportion="-1.5">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -54,24 +72,25 @@
       <file leaf-file-name="WebClientService.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/WebClientService.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="110" column="55" selection-start-line="110" selection-start-column="55" selection-end-line="110" selection-end-column="55" />
+            <state vertical-scroll-proportion="-2.9230769">
+              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SubscriptionClientTest.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SubscriptionClientTest.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/SubscriptionClientTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="219" column="50" selection-start-line="219" selection-start-column="50" selection-end-line="219" selection-end-column="50" />
+            <state vertical-scroll-proportion="0.4655582">
+              <caret line="206" column="43" selection-start-line="206" selection-start-column="43" selection-end-line="206" selection-end-column="43" />
               <folding>
-                <marker date="1443835301573" expanded="true" signature="5205:5217" placeholder="DELETE FROM ..." />
-                <marker date="1443835301573" expanded="true" signature="5406:5488" placeholder="INSERT INTO ..." />
-                <marker date="1443835301573" expanded="true" signature="5597:5672" placeholder="SELECT Subsc..." />
-                <marker date="1443835301573" expanded="true" signature="6606:6618" placeholder="DELETE FROM ..." />
-                <marker date="1443835301573" expanded="true" signature="7861:7950" placeholder="DELETE FROM ..." />
+                <marker date="1444249841009" expanded="true" signature="5205:5217" placeholder="DELETE FROM ..." />
+                <marker date="1444249841009" expanded="true" signature="5406:5488" placeholder="INSERT INTO ..." />
+                <marker date="1444249841009" expanded="true" signature="5597:5672" placeholder="SELECT Subsc..." />
+                <marker date="1444249841009" expanded="true" signature="6606:6618" placeholder="DELETE FROM ..." />
+                <marker date="1444249841009" expanded="true" signature="7861:7950" placeholder="DELETE FROM ..." />
+                <marker date="1444249841009" expanded="true" signature="8748:8856" placeholder="INSERT INTO ..." />
               </folding>
             </state>
           </provider>
@@ -90,10 +109,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="composer.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6219512">
+            <state vertical-scroll-proportion="-9.807693">
               <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
@@ -113,8 +132,8 @@
         <option value="C:/PHP/php.ini" />
         <option value="$PROJECT_DIR$/test/WebClientServiceTest.php" />
         <option value="$PROJECT_DIR$/src/WebClientService.php" />
-        <option value="$PROJECT_DIR$/src/SubscriptionClient.php" />
         <option value="$PROJECT_DIR$/test/SubscriptionClientTest.php" />
+        <option value="$PROJECT_DIR$/src/SubscriptionClient.php" />
       </list>
     </option>
   </component>
@@ -182,7 +201,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -244,6 +262,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -310,26 +329,26 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1380" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2888563" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40615836" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27044025" sideWeight="0.16788857" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25314465" sideWeight="0.17595308" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25314465" sideWeight="0.8240469" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39873418" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27044025" sideWeight="0.8321114" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39873418" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -359,8 +378,26 @@
           <caret line="75" column="9" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
           <folding>
             <element signature="e#119#132#0#PHP" expanded="true" />
-            <marker date="1443835053813" expanded="true" signature="923:1015" placeholder="CREATE TABLE..comments..." />
-            <marker date="1443835053813" expanded="true" signature="1207:1332" placeholder="CREATE TABLE..$..." />
+            <marker date="1444305961918" expanded="true" signature="923:1015" placeholder="CREATE TABLE..comments..." />
+            <marker date="1444305961918" expanded="true" signature="1207:1332" placeholder="CREATE TABLE..$..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1681" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1682" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1688" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1705" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1728" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1754" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1755" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1756" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="5425:5452" placeholder="SELECT Subsc..." />
+            <marker date="1444305961918" expanded="true" signature="6292:6371" placeholder="SELECT Subsc..." />
+            <marker date="1444305961918" expanded="true" signature="7247:7326" placeholder="SELECT Subsc..." />
+            <marker date="1444305961918" expanded="true" signature="8164:8237" placeholder="SELECT Subsc..." />
+            <marker date="1444305961918" expanded="true" signature="10739:10762" placeholder="SELECT Confi..." />
+            <marker date="1444305961918" expanded="true" signature="11708:11720" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="12147:12229" placeholder="INSERT INTO ..." />
+            <marker date="1444305961918" expanded="true" signature="12368:12426" placeholder="SELECT FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="12772:12959" placeholder="INSERT INTO ..." />
+            <marker date="1444305961918" expanded="true" signature="13037:13049" placeholder="DELETE FROM ..." />
           </folding>
         </state>
       </provider>
@@ -386,11 +423,92 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="219" column="50" selection-start-line="219" selection-start-column="50" selection-end-line="219" selection-end-column="50" />
           <folding>
-            <marker date="1443835301573" expanded="true" signature="5205:5217" placeholder="DELETE FROM ..." />
-            <marker date="1443835301573" expanded="true" signature="5406:5488" placeholder="INSERT INTO ..." />
-            <marker date="1443835301573" expanded="true" signature="5597:5672" placeholder="SELECT Subsc..." />
-            <marker date="1443835301573" expanded="true" signature="6606:6618" placeholder="DELETE FROM ..." />
-            <marker date="1443835301573" expanded="true" signature="7861:7950" placeholder="DELETE FROM ..." />
+            <marker date="1444249841009" expanded="true" signature="5205:5217" placeholder="DELETE FROM ..." />
+            <marker date="1444249841009" expanded="true" signature="5406:5488" placeholder="INSERT INTO ..." />
+            <marker date="1444249841009" expanded="true" signature="5597:5672" placeholder="SELECT Subsc..." />
+            <marker date="1444249841009" expanded="true" signature="6606:6618" placeholder="DELETE FROM ..." />
+            <marker date="1444249841009" expanded="true" signature="7861:7950" placeholder="DELETE FROM ..." />
+            <marker date="1444249841009" expanded="true" signature="8748:8856" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/composer.lock">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SubscriptionClient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="75" column="9" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+          <folding>
+            <element signature="e#119#132#0#PHP" expanded="true" />
+            <marker date="1444305961918" expanded="true" signature="923:1015" placeholder="CREATE TABLE..comments..." />
+            <marker date="1444305961918" expanded="true" signature="1207:1332" placeholder="CREATE TABLE..$..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1681" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1682" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1688" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1705" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1728" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1754" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1755" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1756" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="5425:5452" placeholder="SELECT Subsc..." />
+            <marker date="1444305961918" expanded="true" signature="6292:6371" placeholder="SELECT Subsc..." />
+            <marker date="1444305961918" expanded="true" signature="7247:7326" placeholder="SELECT Subsc..." />
+            <marker date="1444305961918" expanded="true" signature="8164:8237" placeholder="SELECT Subsc..." />
+            <marker date="1444305961918" expanded="true" signature="10739:10762" placeholder="SELECT Confi..." />
+            <marker date="1444305961918" expanded="true" signature="11708:11720" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="12147:12229" placeholder="INSERT INTO ..." />
+            <marker date="1444305961918" expanded="true" signature="12368:12426" placeholder="SELECT FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="12772:12959" placeholder="INSERT INTO ..." />
+            <marker date="1444305961918" expanded="true" signature="13037:13049" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/WebClientServiceTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WebClientService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="110" column="55" selection-start-line="110" selection-start-column="55" selection-end-line="110" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/SubscriptionClientTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="219" column="50" selection-start-line="219" selection-start-column="50" selection-end-line="219" selection-end-column="50" />
+          <folding>
+            <marker date="1444249841009" expanded="true" signature="5205:5217" placeholder="DELETE FROM ..." />
+            <marker date="1444249841009" expanded="true" signature="5406:5488" placeholder="INSERT INTO ..." />
+            <marker date="1444249841009" expanded="true" signature="5597:5672" placeholder="SELECT Subsc..." />
+            <marker date="1444249841009" expanded="true" signature="6606:6618" placeholder="DELETE FROM ..." />
+            <marker date="1444249841009" expanded="true" signature="7861:7950" placeholder="DELETE FROM ..." />
+            <marker date="1444249841009" expanded="true" signature="8748:8856" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -420,8 +538,26 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#119#132#0#PHP" expanded="true" />
-            <marker date="1443835053813" expanded="true" signature="923:1015" placeholder="CREATE TABLE..comments..." />
-            <marker date="1443835053813" expanded="true" signature="1207:1332" placeholder="CREATE TABLE..$..." />
+            <marker date="1444305961918" expanded="true" signature="923:1015" placeholder="CREATE TABLE..comments..." />
+            <marker date="1444305961918" expanded="true" signature="1207:1332" placeholder="CREATE TABLE..$..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1681" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1682" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1688" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1705" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1728" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1754" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1755" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1756" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="5425:5452" placeholder="SELECT Subsc..." />
+            <marker date="1444305961918" expanded="true" signature="6292:6371" placeholder="SELECT Subsc..." />
+            <marker date="1444305961918" expanded="true" signature="7247:7326" placeholder="SELECT Subsc..." />
+            <marker date="1444305961918" expanded="true" signature="8164:8237" placeholder="SELECT Subsc..." />
+            <marker date="1444305961918" expanded="true" signature="10739:10762" placeholder="SELECT Confi..." />
+            <marker date="1444305961918" expanded="true" signature="11708:11720" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="12147:12229" placeholder="INSERT INTO ..." />
+            <marker date="1444305961918" expanded="true" signature="12368:12426" placeholder="SELECT FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="12772:12959" placeholder="INSERT INTO ..." />
+            <marker date="1444305961918" expanded="true" signature="13037:13049" placeholder="DELETE FROM ..." />
           </folding>
         </state>
       </provider>
@@ -431,11 +567,12 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="79" column="27" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="27" />
           <folding>
-            <marker date="1443835301573" expanded="true" signature="5205:5217" placeholder="DELETE FROM ..." />
-            <marker date="1443835301573" expanded="true" signature="5406:5488" placeholder="INSERT INTO ..." />
-            <marker date="1443835301573" expanded="true" signature="5597:5672" placeholder="SELECT Subsc..." />
-            <marker date="1443835301573" expanded="true" signature="6606:6618" placeholder="DELETE FROM ..." />
-            <marker date="1443835301573" expanded="true" signature="7861:7950" placeholder="DELETE FROM ..." />
+            <marker date="1444249841009" expanded="true" signature="5205:5217" placeholder="DELETE FROM ..." />
+            <marker date="1444249841009" expanded="true" signature="5406:5488" placeholder="INSERT INTO ..." />
+            <marker date="1444249841009" expanded="true" signature="5597:5672" placeholder="SELECT Subsc..." />
+            <marker date="1444249841009" expanded="true" signature="6606:6618" placeholder="DELETE FROM ..." />
+            <marker date="1444249841009" expanded="true" signature="7861:7950" placeholder="DELETE FROM ..." />
+            <marker date="1444249841009" expanded="true" signature="8748:8856" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -462,8 +599,26 @@
           <caret line="56" column="74" selection-start-line="56" selection-start-column="74" selection-end-line="56" selection-end-column="74" />
           <folding>
             <element signature="e#119#132#0#PHP" expanded="true" />
-            <marker date="1443835053813" expanded="true" signature="923:1015" placeholder="CREATE TABLE..comments..." />
-            <marker date="1443835053813" expanded="true" signature="1207:1332" placeholder="CREATE TABLE..$..." />
+            <marker date="1444305961918" expanded="true" signature="923:1015" placeholder="CREATE TABLE..comments..." />
+            <marker date="1444305961918" expanded="true" signature="1207:1332" placeholder="CREATE TABLE..$..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1681" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1682" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1688" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1705" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1728" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1754" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1755" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1756" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="5425:5452" placeholder="SELECT Subsc..." />
+            <marker date="1444305961918" expanded="true" signature="6292:6371" placeholder="SELECT Subsc..." />
+            <marker date="1444305961918" expanded="true" signature="7247:7326" placeholder="SELECT Subsc..." />
+            <marker date="1444305961918" expanded="true" signature="8164:8237" placeholder="SELECT Subsc..." />
+            <marker date="1444305961918" expanded="true" signature="10739:10762" placeholder="SELECT Confi..." />
+            <marker date="1444305961918" expanded="true" signature="11708:11720" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="12147:12229" placeholder="INSERT INTO ..." />
+            <marker date="1444305961918" expanded="true" signature="12368:12426" placeholder="SELECT FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="12772:12959" placeholder="INSERT INTO ..." />
+            <marker date="1444305961918" expanded="true" signature="13037:13049" placeholder="DELETE FROM ..." />
           </folding>
         </state>
       </provider>
@@ -473,11 +628,12 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
           <folding>
-            <marker date="1443835301573" expanded="true" signature="5205:5217" placeholder="DELETE FROM ..." />
-            <marker date="1443835301573" expanded="true" signature="5406:5488" placeholder="INSERT INTO ..." />
-            <marker date="1443835301573" expanded="true" signature="5597:5672" placeholder="SELECT Subsc..." />
-            <marker date="1443835301573" expanded="true" signature="6606:6618" placeholder="DELETE FROM ..." />
-            <marker date="1443835301573" expanded="true" signature="7861:7950" placeholder="DELETE FROM ..." />
+            <marker date="1444249841009" expanded="true" signature="5205:5217" placeholder="DELETE FROM ..." />
+            <marker date="1444249841009" expanded="true" signature="5406:5488" placeholder="INSERT INTO ..." />
+            <marker date="1444249841009" expanded="true" signature="5597:5672" placeholder="SELECT Subsc..." />
+            <marker date="1444249841009" expanded="true" signature="6606:6618" placeholder="DELETE FROM ..." />
+            <marker date="1444249841009" expanded="true" signature="7861:7950" placeholder="DELETE FROM ..." />
+            <marker date="1444249841009" expanded="true" signature="8748:8856" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -504,8 +660,26 @@
           <caret line="32" column="49" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
           <folding>
             <element signature="e#119#132#0#PHP" expanded="true" />
-            <marker date="1443835053813" expanded="true" signature="923:1015" placeholder="CREATE TABLE..comments..." />
-            <marker date="1443835053813" expanded="true" signature="1207:1332" placeholder="CREATE TABLE..$..." />
+            <marker date="1444305961918" expanded="true" signature="923:1015" placeholder="CREATE TABLE..comments..." />
+            <marker date="1444305961918" expanded="true" signature="1207:1332" placeholder="CREATE TABLE..$..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1681" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1682" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1688" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1705" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1728" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1754" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1755" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1756" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="5425:5452" placeholder="SELECT Subsc..." />
+            <marker date="1444305961918" expanded="true" signature="6292:6371" placeholder="SELECT Subsc..." />
+            <marker date="1444305961918" expanded="true" signature="7247:7326" placeholder="SELECT Subsc..." />
+            <marker date="1444305961918" expanded="true" signature="8164:8237" placeholder="SELECT Subsc..." />
+            <marker date="1444305961918" expanded="true" signature="10739:10762" placeholder="SELECT Confi..." />
+            <marker date="1444305961918" expanded="true" signature="11708:11720" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="12147:12229" placeholder="INSERT INTO ..." />
+            <marker date="1444305961918" expanded="true" signature="12368:12426" placeholder="SELECT FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="12772:12959" placeholder="INSERT INTO ..." />
+            <marker date="1444305961918" expanded="true" signature="13037:13049" placeholder="DELETE FROM ..." />
           </folding>
         </state>
       </provider>
@@ -515,11 +689,12 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1443835301573" expanded="true" signature="5205:5217" placeholder="DELETE FROM ..." />
-            <marker date="1443835301573" expanded="true" signature="5406:5488" placeholder="INSERT INTO ..." />
-            <marker date="1443835301573" expanded="true" signature="5597:5672" placeholder="SELECT Subsc..." />
-            <marker date="1443835301573" expanded="true" signature="6606:6618" placeholder="DELETE FROM ..." />
-            <marker date="1443835301573" expanded="true" signature="7861:7950" placeholder="DELETE FROM ..." />
+            <marker date="1444249841009" expanded="true" signature="5205:5217" placeholder="DELETE FROM ..." />
+            <marker date="1444249841009" expanded="true" signature="5406:5488" placeholder="INSERT INTO ..." />
+            <marker date="1444249841009" expanded="true" signature="5597:5672" placeholder="SELECT Subsc..." />
+            <marker date="1444249841009" expanded="true" signature="6606:6618" placeholder="DELETE FROM ..." />
+            <marker date="1444249841009" expanded="true" signature="7861:7950" placeholder="DELETE FROM ..." />
+            <marker date="1444249841009" expanded="true" signature="8748:8856" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -546,8 +721,26 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#119#132#0#PHP" expanded="true" />
-            <marker date="1443835053813" expanded="true" signature="923:1015" placeholder="CREATE TABLE..comments..." />
-            <marker date="1443835053813" expanded="true" signature="1207:1332" placeholder="CREATE TABLE..$..." />
+            <marker date="1444305961918" expanded="true" signature="923:1015" placeholder="CREATE TABLE..comments..." />
+            <marker date="1444305961918" expanded="true" signature="1207:1332" placeholder="CREATE TABLE..$..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1681" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1682" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1688" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1705" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1728" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1754" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1755" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1756" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="5425:5452" placeholder="SELECT Subsc..." />
+            <marker date="1444305961918" expanded="true" signature="6292:6371" placeholder="SELECT Subsc..." />
+            <marker date="1444305961918" expanded="true" signature="7247:7326" placeholder="SELECT Subsc..." />
+            <marker date="1444305961918" expanded="true" signature="8164:8237" placeholder="SELECT Subsc..." />
+            <marker date="1444305961918" expanded="true" signature="10739:10762" placeholder="SELECT Confi..." />
+            <marker date="1444305961918" expanded="true" signature="11708:11720" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="12147:12229" placeholder="INSERT INTO ..." />
+            <marker date="1444305961918" expanded="true" signature="12368:12426" placeholder="SELECT FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="12772:12959" placeholder="INSERT INTO ..." />
+            <marker date="1444305961918" expanded="true" signature="13037:13049" placeholder="DELETE FROM ..." />
           </folding>
         </state>
       </provider>
@@ -574,48 +767,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/WebClientServiceTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WebClientService.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="110" column="55" selection-start-line="110" selection-start-column="55" selection-end-line="110" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SubscriptionClient.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="75" column="9" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
-          <folding>
-            <element signature="e#119#132#0#PHP" expanded="true" />
-            <marker date="1443835053813" expanded="true" signature="923:1015" placeholder="CREATE TABLE..comments..." />
-            <marker date="1443835053813" expanded="true" signature="1207:1332" placeholder="CREATE TABLE..$..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/SubscriptionClientTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="219" column="50" selection-start-line="219" selection-start-column="50" selection-end-line="219" selection-end-column="50" />
-          <folding>
-            <marker date="1443835301573" expanded="true" signature="5205:5217" placeholder="DELETE FROM ..." />
-            <marker date="1443835301573" expanded="true" signature="5406:5488" placeholder="INSERT INTO ..." />
-            <marker date="1443835301573" expanded="true" signature="5597:5672" placeholder="SELECT Subsc..." />
-            <marker date="1443835301573" expanded="true" signature="6606:6618" placeholder="DELETE FROM ..." />
-            <marker date="1443835301573" expanded="true" signature="7861:7950" placeholder="DELETE FROM ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/composer.lock">
       <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
         <state />
@@ -629,9 +780,70 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6219512">
+        <state vertical-scroll-proportion="-9.807693">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WebClientService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.9230769">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/WebClientServiceTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SubscriptionClient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.807693">
+          <caret line="181" column="13" selection-start-line="181" selection-start-column="13" selection-end-line="181" selection-end-column="13" />
+          <folding>
+            <element signature="e#119#132#0#PHP" expanded="true" />
+            <marker date="1444305961918" expanded="true" signature="923:1015" placeholder="CREATE TABLE..comments..." />
+            <marker date="1444305961918" expanded="true" signature="1207:1332" placeholder="CREATE TABLE..$..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1681" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1682" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1688" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1705" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1728" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1754" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1755" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="1669:1756" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="5425:5452" placeholder="SELECT Subsc..." />
+            <marker date="1444305961918" expanded="true" signature="6292:6371" placeholder="SELECT Subsc..." />
+            <marker date="1444305961918" expanded="true" signature="7247:7326" placeholder="SELECT Subsc..." />
+            <marker date="1444305961918" expanded="true" signature="8164:8237" placeholder="SELECT Subsc..." />
+            <marker date="1444305961918" expanded="true" signature="10739:10762" placeholder="SELECT Confi..." />
+            <marker date="1444305961918" expanded="true" signature="11708:11720" placeholder="DELETE FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="12147:12229" placeholder="INSERT INTO ..." />
+            <marker date="1444305961918" expanded="true" signature="12368:12426" placeholder="SELECT FROM ..." />
+            <marker date="1444305961918" expanded="true" signature="12772:12959" placeholder="INSERT INTO ..." />
+            <marker date="1444305961918" expanded="true" signature="13037:13049" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/SubscriptionClientTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4655582">
+          <caret line="206" column="43" selection-start-line="206" selection-start-column="43" selection-end-line="206" selection-end-column="43" />
+          <folding>
+            <marker date="1444249841009" expanded="true" signature="5205:5217" placeholder="DELETE FROM ..." />
+            <marker date="1444249841009" expanded="true" signature="5406:5488" placeholder="INSERT INTO ..." />
+            <marker date="1444249841009" expanded="true" signature="5597:5672" placeholder="SELECT Subsc..." />
+            <marker date="1444249841009" expanded="true" signature="6606:6618" placeholder="DELETE FROM ..." />
+            <marker date="1444249841009" expanded="true" signature="7861:7950" placeholder="DELETE FROM ..." />
+            <marker date="1444249841009" expanded="true" signature="8748:8856" placeholder="INSERT INTO ..." />
+          </folding>
         </state>
       </provider>
     </entry>

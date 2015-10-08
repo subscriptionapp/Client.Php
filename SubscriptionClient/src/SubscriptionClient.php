@@ -43,6 +43,10 @@ class SubscriptionClient
         $this->insertOrUpdateSubscriber($subscriber);
     }
 
+    public function subscriptionRemoved($subscriber){
+        $this->conn->query("DELETE FROM $this->subscribersTable WHERE SubscriberKey = '" . $subscriber['Key'] . "'") ;
+    }
+
     public function updateSubscription($subscriber){
         $original = $this->getSubscriptionModelForKey($subscriber['Key']);
         if(!isset($original)){
@@ -146,7 +150,13 @@ class SubscriptionClient
         if(false == $res || mysqli_num_rows($res) == 0){
             //failed to get from my sql attempt to get it from webservice
             $json = $this->webClientService->getSubscriberByKey($key);
+            if('' == $json){
+                return null;
+            }
             $subscriber = json_decode($json, true);
+            if(array_key_exists('Error', $subscriber)){
+                return null;
+            }
             $this->insertOrUpdateSubscriber($subscriber);
             return $this->toDynamic($subscriber);
         } else{
@@ -163,7 +173,13 @@ class SubscriptionClient
         if(false == $res || mysqli_num_rows($res) == 0){
             //failed to get from my sql attempt to get it from webservice
             $json = $this->webClientService->getSubscriberByKey($key);
+            if('' == $json){
+                return null;
+            }
             $subscriber = json_decode($json, true);
+            if(array_key_exists('Error', $subscriber)){
+                return null;
+            }
             $this->insertOrUpdateSubscriber($subscriber);
             return $subscriber;
         } else{
